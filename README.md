@@ -9,8 +9,8 @@ Also including **pattern-based problems** as part of the same challenge.
 
 | Day | Problem Summary                                 | Solution File               | 
 |-----|-------------------------------------------------|-----------------------------|
-| 1   | Print natural numbers from 1 to n               | [Problem-0.js](Problem-0/00.js)  |                              |
-| 2   | Natural numbers in reverse (n to 1)             | [Problem-2.js](Problem-1/01.js)  |                              |
+| 1   | Print natural numbers from 1 to n               | [Problem-0.js](./Problem-1/00.js)  |                              |
+| 2   | Natural numbers in reverse (n to 1)             | [Problem-1.js](./Problem-2/01.js)  |                              |
 <!-- | 3 | all alphabets from a to z. – using while loop                                              | [Problem-2.js](./Problem-2/Problem-2.js) |
 | 34  | All Strong numbers between 1 to n               | [Problem-34.js](./Problem-34/Problem-34.js) |                          |
 | 35  | Pattern 1: Number Triangle                      | [Problem-35.js](./Problem-35/Problem-35.js) |                          |
