@@ -7,7 +7,7 @@ Also including **pattern-based problems** as part of the same challenge.
 
 ## 📅 Progress Tracker
 
-| Day | Problem Summary                                 | Solution File               | 
+| S.no | Problems                                 | Solution File               | 
 |-----|-------------------------------------------------|-----------------------------|
 | 1   | Print natural numbers from 1 to n               | [Problem-0.js](problem-0/00.js)  |                              |
 | 2   | Natural numbers in reverse (n to 1)             | [Problem-1.js](problem-1/01.js)  |                              |
