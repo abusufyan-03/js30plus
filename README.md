@@ -11,8 +11,8 @@ Also including **pattern-based problems** as part of the same challenge.
 |------|-------------------------------------------------|--------------------------------------------|
 | 0    | Print natural numbers from 1 to n               | [Problem-0.js](problem-0/00.js)                |
 | 1    | Natural numbers in reverse (n to 1)             | [Problem-1.js](problem-1/01.js)                |
-| 2    | all alphabets from a to z. – using while loop   | [Problem-2.js](./Problem-2/02.js)   |
-| 3    | all even numbers between 1 to 100.              | [Problem-2.js](./Problem-3/03.js)   |
+| 2    | all alphabets from a to z. – using while loop   | [Problem-2.js](./problem-2/02.js)   |
+| 3    | all even numbers between 1 to 100.              | [Problem-2.js](./problem-3/03.js)   |
 <!-- | 4    |  print all odd number between 1 to 100          | [Problem-34.js](./Problem-34/js)           |
 | 5    | find sum of all natural numbers between 1 to n. | [Problem-35.js](./Problem-35/Problem-35.js)|
 | 6    |  find sum of all even numbers between 1 to n.   | [Problem-36.js](./Problem-36/Problem-36.js)|
