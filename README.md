@@ -14,12 +14,12 @@ Also including **pattern-based problems** as part of the same challenge.
 | 2    | all alphabets from a to z. – using while loop   | [Solution-2](./problem-2/02.js)   |
 | 3    | all even numbers between 1 to 100.              | [Solution-3](./problem-3/03.js)   |
 | 4    |  print all odd number between 1 to 100          | [Solution-4](./problem-4/04.js)           |
-| 5    | find sum of all natural numbers between 1 to n. | [Solution-5.js](./problem-5/05.js)|
-<!-- | 6    |  find sum of all even numbers between 1 to n.   | [Problem-36.js](./Problem-36/Problem-36.js)|
-| 7    |  find sum of all odd numbers between 1 to n     | [Problem-37.js](./Problem-37/Problem-37.js)|
-| 8    |  print multiplication table of any number.      |                                            |
-| 9    | count number of digits in a number.             |                                            |
-| 10   |  find first and last digit of a number.         |                                            |
+| 5    | find sum of all natural numbers between 1 to n. | [Solution-5](./problem-5/05.js)|
+| 6    |  find sum of all even numbers between 1 to n.   | [Solution-6](./problem-6/06.js)|
+| 7    |  find sum of all odd numbers between 1 to n     | [Solution-7](./problem-7/07.js)|
+| 8    |  print multiplication table of any number.      | [Solution-8](./problem-8/08.js)|
+| 9    | count number of digits in a number.             | [Solution-9](./problem-9/09.js)|
+<!-- | 10   |  find first and last digit of a number.         |                                            |
 | 11   | find sum of first and last digit of a number    |                                            |
 | 12   | swap first and last digits of a number.         |                                            |
 | 13   | calculate sum of digits of a number.            |                                            | -->
