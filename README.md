@@ -21,8 +21,23 @@ Also including **pattern-based problems** as part of the same challenge.
 | 9    | count number of digits in a number.             | [Solution-9](./problem-09/09.js)|
 | 10   |  find first and last digit of a number.         | [Solution-10](./problem-10/10.js)|
 | 11   | find sum of first and last digit of a number    | [Solution-11](./problem-11/11.js)|
-<!-- | 12   | swap first and last digits of a number.         |                                            |
-| 13   | calculate sum of digits of a number.            |                                            | -->
+| 12   | swap first and last digits of a number.         | [Solution-12](./problem-12/12.js)|
+| 13   | calculate sum of digits of a number.            | [Solution-13](./problem-13/13.js)|
+<!-- | 14   | swap first and last digits of a number.         |                                    |
+| 15   | calculate sum of digits of a number.            |                                       |
+| 16   | swap first and last digits of a number.         |                                    |
+| 17   | calculate sum of digits of a number.            |                                       |
+| 18   | swap first and last digits of a number.         |                                    |
+| 19   | calculate sum of digits of a number.            |                                       |
+| 20   | swap first and last digits of a number.         |                                    |
+| 21   | calculate sum of digits of a number.            |                                       |
+| 22   | swap first and last digits of a number.         |                                    |
+| 23   | calculate sum of digits of a number.            |                                       |
+| 24   | swap first and last digits of a number.         |                                    |
+| 25   | calculate sum of digits of a number.            |                                       |
+| 26   | swap first and last digits of a number.         |                                    |
+| 27   | calculate sum of digits of a number.            |                                       | -->
+
 
 ---
 
