@@ -23,11 +23,11 @@ Also including **pattern-based problems** as part of the same challenge.
 | 11   | find sum of first and last digit of a number    | [Solution-11](./problem-11/11.js)|
 | 12   | swap first and last digits of a number.         | [Solution-12](./problem-12/12.js)|
 | 13   | calculate sum of digits of a number.            | [Solution-13](./problem-13/13.js)|
-<!-- | 14   | swap first and last digits of a number.         |                                    |
-| 15   | calculate sum of digits of a number.            |                                       |
-| 16   | swap first and last digits of a number.         |                                    |
-| 17   | calculate sum of digits of a number.            |                                       |
-| 18   | swap first and last digits of a number.         |                                    |
+| 14   | calculate product of digits of a number.        | [Solution-14](./problem-14/14.js)|
+| 15   | Enter a number and print its reverse.           | [Solution-15](./problem-15/15.js)|
+| 16   | Check whether a number is palindrome or not.    | [Solution-16](./problem-16/16.js)|
+| 17   | Find frequency of each digit in a given integer.| [Solution-17](./problem-17/17.js)|
+<!-- | 18   | swap first and last digits of a number.         |                                    |
 | 19   | calculate sum of digits of a number.            |                                       |
 | 20   | swap first and last digits of a number.         |                                    |
 | 21   | calculate sum of digits of a number.            |                                       |
